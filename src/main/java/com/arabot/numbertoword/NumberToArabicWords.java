@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 /**
- * Created by Bayan on 19/07/2017.
+ * Created by Aya.kilani on 19/07/2017.
  */
 public class NumberToArabicWords {
 
