@@ -8,7 +8,7 @@ import java.util.*;
  */
 public class NumberToArabicWords {
 
-    public static final String HOW_TO_USE = "اكتب الرقم بحروف اللغة العربية ليتم تحوليه الرقم الرياضي، للخروج اكتب كلمة خروج.. ";
+    public static final String HOW_TO_USE = "اكتب الرقم نصيا بحروف اللغة العربية ليتم تحوليه الى رمزه الرياضي، للخروج اكتب كلمة خروج.. ";
 
     public static void main(String[] args) throws IOException {
         LinkedHashMap<String, Integer> map = new LinkedHashMap<>();
