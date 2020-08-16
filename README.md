@@ -1,6 +1,3 @@
-# convert-to-arabic-word
-Arabic text to number translator, just write Arabic words and you get numbers.
+# Translate Number From Written Text in Arabic Language to its Numeral Symbol 
 
-Prerequirment: Intellij IDE.
-
-Run: run the main class, then type a number in Arabic words, after that press Enter, then you will get the mathematical number.
+Run: run the main class, then type in the terminal texted number in Arabic language like "خمسة و ستون", after that press Enter, then you will get its numeral symbol, which is in this example "65".
